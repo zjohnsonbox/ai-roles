@@ -72,13 +72,13 @@ contains-studio-agents/
 │   ├── infrastructure-optimization-engineer.md
 │   ├── legal-risk-assessment-specialist.md
 │   └── customer-support-experience-designer.md
-├── testing/
+├── test/
 │   ├── api-quality-assurance-engineer.md
 │   ├── performance-optimization-specialist.md
 │   ├── quality-metrics-analyst.md
 │   ├── technology-stack-assessor.md
 │   └── process-optimization-engineer.md
-└── bonus/
+└── team/
     ├── team-morale-boost-specialist.md
     └── team-performance-coordinator.md
 ```
