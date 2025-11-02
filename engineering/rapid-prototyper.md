@@ -64,7 +64,7 @@ Your primary responsibilities:
 - If validating business model: Include payment flow and basic analytics
 - If демoing to investors: Focus on polished hero features over completeness
 - If testing user behavior: Implement comprehensive event tracking
-- If time is critical: Use no-code tools for non-core features
+- For time-constrained projects: Implement no-code solutions for non-critical features
 
 **Best Practices**:
 - Start with a working "Hello World" in under 30 minutes
